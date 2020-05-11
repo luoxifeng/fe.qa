@@ -3,10 +3,56 @@
 本项目所有文章并不一定完全遵循由浅及深的曲线。但保证内容都是精心准备的干货，请放心食用。
 
 ## 分类
-- Typescript
-  - type 和 interface 区别
 - JavaScript
-  - 数据类型(包含es6新增）
+  - 基本概念
+    - 数据类型(包含es6新增）
+    - 对象和数组的区别
+    
+  - Object相关
+    - 作用
+    - api
+
+  - 数组相关
+    - 数组api
+    - es6新增api
+    - 数组的转换
+    - polyfill
+    - 类数组
+    - map,filter,reduce
+  — Function
+    - 如何理解函数是一等公民
+    - 函数科里化
+    - 高阶函数
+  - 正则
+  
+  - Event
+  - Promise
+  
+
+  
+- HTML
+  - 如何理解语义化
+  - localStorage & sessionStorage
+  - Web Component
+  - Shadow Dom
+  - 标准Dom和HTML Dom
+  - Dom事件
+  - Dom的继承关系
+  - 如何禁用Css
+  
+— Css
+  - css2和css3
+  - 盒模型
+  - flex布局
+  - 响应式
+- 浏览器相关
+  - 回流和重绘
+  
+- Typescript
+  - ts有什么好处
+  - type 和 interface 区别
+
+ 
 - Webpack
   - 配置类型
   - input
@@ -20,3 +66,17 @@
   - dev server
   - 如何解决模块依赖
   - 异步加载如何实现的
+- Vue
+- React
+- Redux
+  - 实现原理
+  - 中间件
+  - 异步
+- 网络相关
+ - URL
+ - 缓存
+ - 跨域
+ — JSONP原理
+ — CORS
+ - cookie
+ 
