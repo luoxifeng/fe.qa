@@ -74,10 +74,10 @@
   - 异步
   
  - 网络相关  
-   - URL
-   - 缓存
-   - 跨域
-   — JSONP原理
-   — CORS
-   - cookie
+   - URL 
+   - 缓存 
+   - 跨域 
+   — JSONP原理 
+   — CORS 
+   - cookie 
  
