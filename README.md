@@ -72,11 +72,12 @@
   - 实现原理
   - 中间件
   - 异步
-- 网络相关 
- - URL
- - 缓存
- - 跨域
- — JSONP原理
- — CORS
- - cookie
+  
+ - 网络相关  
+   - URL
+   - 缓存
+   - 跨域
+   — JSONP原理
+   — CORS
+   - cookie
  
