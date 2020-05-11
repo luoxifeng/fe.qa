@@ -77,7 +77,7 @@
    - URL 
    - 缓存 
    - 跨域 
-   — JSONP原理 
-   — CORS 
+   - JSONP原理 
+   - CORS 
    - cookie 
  
