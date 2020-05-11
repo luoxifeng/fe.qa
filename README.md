@@ -5,3 +5,18 @@
 ## 分类
 - Typescript
   - type 和 interface 区别
+- JavaScript
+  - 数据类型(包含es6新增）
+- Webpack
+  - 配置类型
+  - input
+  - output
+  - hash
+  - externals
+  - loader (分类，执行顺序，开发，进阶)
+  - plugin
+  - hooks时间机制
+  - 优化
+  - dev server
+  - 如何解决模块依赖
+  - 异步加载如何实现的
