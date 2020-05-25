@@ -7,11 +7,12 @@
 
 - JavaScript
   - 基本概念
-    - 数据类型(包含es6新增）
-    - 对象和数组的区别
+    - [数据类型(包含es6新增](./docs/javascript/数据类型.html)
+    - [对象和数组的区别](./docs/javascript/对象和数组的区别.html)
   - Object相关
-    - 作用
-    - api
+    - Object.create
+    - Object.assign
+    - Object.prototype.toString
 
   - 数组相关
     - 数组api
