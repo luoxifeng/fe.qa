@@ -12,10 +12,10 @@
   - Object相关
     - [Object.create](./docs/javascript/Object.create.html)
     - [Object.assign](./docs/javascript/Object.assign.html)
-    - Object.prototype.toString
+    - [Object.prototype.toString](./docs/javascript/Object.prototype.toString.html)
 
   - 数组相关
-    - 数组api
+    - [数组api](./docs/javascript/数组api.html)
     - es6新增api
     - 数组的转换
     - polyfill
