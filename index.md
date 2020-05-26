@@ -16,8 +16,8 @@
 
   - 数组相关
     - [数组api](./docs/javascript/数组api.html)
-    - es6新增api
-    - 数组的转换
+    - [es6新增api](./docs/javascript/es6新增api.html)
+    - [数组的转换](./docs/javascript/数组的转换.html)
     - polyfill
     - 类数组
     - map,filter,reduce
