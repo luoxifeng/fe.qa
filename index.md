@@ -19,7 +19,7 @@
     - [es6新增api](./docs/javascript/es6新增api.html)
     - [数组的转换](./docs/javascript/数组的转换.html)
     - polyfill
-    - 类数组
+    - [类数组](./docs/javascript/类数组.html)
     - map,filter,reduce
   — Function
     - 如何理解函数是一等公民
