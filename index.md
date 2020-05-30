@@ -26,6 +26,8 @@
     - 函数科里化
     - 高阶函数
   - 正则
+    - exec
+    - String.prototype.match
   
   - Event
   - Promise
@@ -39,6 +41,7 @@
   - Dom事件
   - Dom的继承关系
   - 如何禁用Css
+  - 前端路由
   
 - Css
   - css2和css3
