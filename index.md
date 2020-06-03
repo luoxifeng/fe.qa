@@ -31,7 +31,7 @@
   - Promise
   
 - HTML
-  - 如何理解语义化
+  - [如何理解语义化](./docs/html/如何理解语义化.html)
   - localStorage & sessionStorage
   - Web Component
   - Shadow Dom
