@@ -34,7 +34,7 @@
   
 - HTML
   - [如何理解语义化](./docs/html/如何理解语义化.html)
-  - localStorage & sessionStorage
+  - [localStorage和sessionStorage](./docs/html/localStorage和sessionStorage.html)
   - Web Component
   - Shadow Dom
   - 标准Dom和HTML Dom
@@ -50,6 +50,7 @@
   - 响应式
   - [inline-block间距形成原因以及如何消除](./docs/css/inline-block间距形成原因以及如何消除.html)
 - 浏览器相关
+  - 渲染过程
   - 回流和重绘
   
 - Typescript
