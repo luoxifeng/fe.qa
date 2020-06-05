@@ -42,6 +42,7 @@
   - Dom的继承关系
   - 如何禁用Css
   - 前端路由
+  - e.target和e.currentTarget
   
 - Css
   - css2和css3
