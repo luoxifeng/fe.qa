@@ -13,7 +13,7 @@
     - [Object.create](./docs/javascript/Object.create.html)
     - [Object.assign](./docs/javascript/Object.assign.html)
     - [Object.prototype.toString](./docs/javascript/Object.prototype.toString.html)
-
+    - Object.prototype.stringTag
   - 数组相关
     - [数组api](./docs/javascript/数组api.html)
     - [es6新增api](./docs/javascript/es6新增api.html)
