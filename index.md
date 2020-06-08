@@ -21,10 +21,11 @@
     - polyfill
     - [类数组](./docs/javascript/类数组.html)
     - map,filter,reduce
-  — Function
+  - Function
     - 如何理解函数是一等公民
     - 函数科里化
     - 高阶函数
+    - call和apply
   - 正则
     - exec
     - String.prototype.match
