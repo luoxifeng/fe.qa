@@ -26,6 +26,7 @@
     - 函数科里化
     - 高阶函数
     - call和apply
+    - Function.prototype.bind
   - 正则
     - exec
     - String.prototype.match
