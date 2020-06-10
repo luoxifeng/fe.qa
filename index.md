@@ -27,6 +27,7 @@
     - 高阶函数
     - call和apply
     - Function.prototype.bind
+    - Function.prototype和Function.__proto__
   - 正则
     - exec
     - String.prototype.match
