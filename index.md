@@ -22,7 +22,7 @@
     - [类数组](./docs/javascript/类数组.html)
     - map,filter,reduce
   - Function
-    - 如何理解函数是一等公民
+    - [如何理解函数是一等公民](./docs/javascript/Function/如何理解函数是一等公民.html)
     - 函数科里化
     - 高阶函数
     - call和apply
@@ -51,6 +51,7 @@
   - css2和css3
   - 盒模型
   - flex布局
+  - flex伸缩计算
   - 响应式
   - [inline-block间距形成原因以及如何消除](./docs/css/inline-block间距形成原因以及如何消除.html)
 - 浏览器相关
