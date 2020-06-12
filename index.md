@@ -14,6 +14,7 @@
     - [Object.assign](./docs/javascript/Object.assign.html)
     - [Object.prototype.toString](./docs/javascript/Object.prototype.toString.html)
     - Object.prototype.stringTag
+    - forin和对象的遍历
   - 数组相关
     - [数组api](./docs/javascript/数组api.html)
     - [es6新增api](./docs/javascript/es6新增api.html)
@@ -21,6 +22,7 @@
     - polyfill
     - [类数组](./docs/javascript/类数组.html)
     - map,filter,reduce
+    - 数组遍历和forin
   - Function
     - [如何理解函数是一等公民](./docs/javascript/Function/如何理解函数是一等公民.html)
     - 函数科里化
