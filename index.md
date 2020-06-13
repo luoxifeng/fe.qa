@@ -36,6 +36,8 @@
   
   - Event
   - Promise
+  - 其他
+    - 关于NaN
   
 - HTML
   - [如何理解语义化](./docs/html/如何理解语义化.html)
