@@ -14,6 +14,7 @@
     - [Object.assign](./docs/javascript/Object.assign.html)
     - [Object.prototype.toString](./docs/javascript/Object.prototype.toString.html)
     - Object.prototype.stringTag
+    - Object.is
     - forin和对象的遍历
     - 对象的迭代器
   - 数组相关
