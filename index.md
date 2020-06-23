@@ -54,6 +54,7 @@
   - e.target和e.currentTarget
   
 - Css
+  - 选择器的权重
   - css2和css3
   - 盒模型
   - flex布局
