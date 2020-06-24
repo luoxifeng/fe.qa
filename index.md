@@ -38,6 +38,7 @@
   
   - Event
   - Promise
+  - 模块化
   - 其他
     - 关于NaN
   
