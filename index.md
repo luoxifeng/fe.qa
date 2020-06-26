@@ -28,6 +28,7 @@
   - Function
     - [如何理解函数是一等公民](./docs/javascript/Function/如何理解函数是一等公民.html)
     - 函数科里化
+    - 闭包
     - 高阶函数
     - call和apply
     - Function.prototype.bind
