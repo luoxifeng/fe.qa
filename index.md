@@ -27,6 +27,7 @@
     - 数组遍历和forin
   - Function
     - [如何理解函数是一等公民](./docs/javascript/Function/如何理解函数是一等公民.html)
+    - 箭头函数
     - 函数科里化
     - 闭包
     - 高阶函数
