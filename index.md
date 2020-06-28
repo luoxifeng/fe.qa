@@ -30,6 +30,7 @@
     - 箭头函数
     - 函数科里化
     - 闭包
+    - argments
     - 高阶函数
     - call和apply
     - Function.prototype.bind
@@ -37,7 +38,6 @@
   - 正则
     - exec
     - String.prototype.match
-  
   - Event
   - Promise
   - 模块化
