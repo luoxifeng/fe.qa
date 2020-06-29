@@ -55,6 +55,7 @@
   - 如何禁用Css
   - 前端路由
   - e.target和e.currentTarget
+  - 事件代理
   
 - Css
   - 选择器的权重
