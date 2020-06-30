@@ -35,6 +35,7 @@
     - call和apply
     - Function.prototype.bind
     - Function.prototype和Function.__proto__
+    - 关于this
   - 正则
     - exec
     - String.prototype.match
