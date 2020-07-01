@@ -44,6 +44,7 @@
   - 模块化
   - 其他
     - 关于NaN
+    - parseInt
   
 - HTML
   - [如何理解语义化](./docs/html/如何理解语义化.html)
