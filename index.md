@@ -22,6 +22,7 @@
     - [es6新增api](./docs/javascript/es6新增api.html)
     - [数组的转换](./docs/javascript/数组的转换.html)
     - polyfill
+    - Array.from
     - [类数组](./docs/javascript/类数组.html)
     - map,filter,reduce
     - 数组遍历和forin
