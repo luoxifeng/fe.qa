@@ -34,6 +34,7 @@
     - 闭包
     - argments
     - 高阶函数
+    - 函数组合compose
     - call和apply
     - Function.prototype.bind
     - Function.prototype和Function.__proto__
