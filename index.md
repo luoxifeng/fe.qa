@@ -61,6 +61,7 @@
   - 前端路由
   - e.target和e.currentTarget
   - 事件代理
+  - async和defer
   
 - Css
   - 选择器的权重
