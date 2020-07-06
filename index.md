@@ -62,6 +62,7 @@
   - e.target和e.currentTarget
   - 事件代理
   - async和defer
+  - dataset
   
 - Css
   - 选择器的权重
