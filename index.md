@@ -26,6 +26,7 @@
     - [类数组](./docs/javascript/类数组.html)
     - map,filter,reduce
     - 数组遍历和forin
+    — includes
   - Function
     - [如何理解函数是一等公民](./docs/javascript/Function/如何理解函数是一等公民.html)
     - 纯函数
