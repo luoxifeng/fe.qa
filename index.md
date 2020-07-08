@@ -40,6 +40,8 @@
     - Function.prototype.bind
     - Function.prototype和Function.__proto__
     - 关于this
+  - Event
+    - e.target和e.currentTarget
   - 正则
     - exec
     - String.prototype.match
@@ -60,7 +62,6 @@
   - Dom的继承关系
   - 如何禁用Css
   - 前端路由
-  - e.target和e.currentTarget
   - 事件代理
   - async和defer
   - dataset
