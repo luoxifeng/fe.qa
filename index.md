@@ -42,6 +42,7 @@
     - 关于this
   - Event
     - e.target和e.currentTarget
+    - 事件绑定和事件代理
   - 正则
     - exec
     - String.prototype.match
@@ -62,7 +63,6 @@
   - Dom的继承关系
   - 如何禁用Css
   - 前端路由
-  - 事件代理
   - async和defer
   - dataset
   
