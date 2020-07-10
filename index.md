@@ -43,6 +43,7 @@
   - Event
     - e.target和e.currentTarget
     - 事件绑定和事件代理
+    - 事件对象的兼容性
   - 正则
     - exec
     - String.prototype.match
