@@ -9,6 +9,7 @@
   - 基本概念
     - [数据类型(包含es6新增](./docs/javascript/数据类型.html)
     - [对象和数组的区别](./docs/javascript/对象和数组的区别.html)
+    - 严格模式
   - Object相关
     - [Object.create](./docs/javascript/Object.create.html)
     - [Object.assign](./docs/javascript/Object.assign.html)
