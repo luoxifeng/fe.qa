@@ -13,16 +13,17 @@
     - 变量提升
     - 作用域链
   - Object相关
+    - 原型以及原型链
+    - 继承
+    - 拷贝
+    - forin和对象的遍历
+    - 对象的迭代器
     - [Object.create](./docs/javascript/Object.create.html)
     - [Object.assign](./docs/javascript/Object.assign.html)
     - [Object.prototype.toString](./docs/javascript/Object.prototype.toString.html)
     - Object.prototype.stringTag
     - Object.is
-    - forin和对象的遍历
-    - 对象的迭代器
-    - 拷贝
-    - 原型以及原型链
-    - 继承
+    - Object.defineProperty
   - 数组相关
     - [数组api](./docs/javascript/数组api.html)
     - [es6新增api](./docs/javascript/es6新增api.html)
