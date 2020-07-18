@@ -38,16 +38,17 @@
   - Function
     - [如何理解函数是一等公民](./docs/javascript/Function/如何理解函数是一等公民.html)
     - 纯函数
-    - 箭头函数
-    - 函数科里化
-    - 闭包
-    - argments
     - 高阶函数
+    - 闭包
+    - 函数科里化
+    - argments
     - 函数组合compose
+    - 函数管道pipe
     - call和apply
     - Function.prototype.bind
     - Function.prototype和Function.__proto__
-    - 关于this
+    - this
+    - 箭头函数
   - Event
     - e.target和e.currentTarget
     - 事件绑定和事件代理
