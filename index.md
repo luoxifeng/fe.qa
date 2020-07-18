@@ -12,7 +12,7 @@
     - 严格模式
     - 变量提升
     - 作用域链
-  - Object相关
+  - Object
     - 原型以及原型链
     - 继承
     - 拷贝
@@ -24,7 +24,8 @@
     - Object.prototype.stringTag
     - Object.is
     - Object.defineProperty
-  - 数组相关
+  - Array
+    - Array& new Array
     - [数组api](./docs/javascript/数组api.html)
     - [es6新增api](./docs/javascript/es6新增api.html)
     - [数组的转换](./docs/javascript/数组的转换.html)
