@@ -56,9 +56,9 @@
   - 正则
     - exec
     - String.prototype.match
-  - Event
   - Promise
   - 模块化
+    - Commonjs
   - 其他
     - 关于NaN
     - parseInt
