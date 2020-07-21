@@ -24,6 +24,7 @@
     - Object.prototype.stringTag
     - Object.is
     - Object.defineProperty
+    - Object.seal
   - Array
     - Array& new Array
     - [数组api](./docs/javascript/数组api.html)
