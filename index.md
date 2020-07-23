@@ -52,7 +52,8 @@
     - 箭头函数
   - Event
     - e.target和e.currentTarget
-    - 事件冒泡&Event.prototype.stopPropagation
+    - 事件冒泡&e.stopPropagation()
+    - e.preventDefault()
     - 事件绑定和事件代理
     - 事件对象的兼容性
   - 正则
