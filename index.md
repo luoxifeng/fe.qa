@@ -51,6 +51,7 @@
     - this
     - 箭头函数
   - Event
+    - 事件捕获和事件冒泡
     - e.target和e.currentTarget
     - 事件冒泡&e.stopPropagation()
     - e.preventDefault()
