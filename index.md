@@ -64,6 +64,7 @@
   - 模块化
     - Commonjs
     - AMD&CMD
+    ES Module
   - 其他
     - 关于NaN
     - parseInt
