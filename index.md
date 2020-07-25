@@ -63,6 +63,7 @@
   - Promise
   - 模块化
     - Commonjs
+    - AMD&CMD
   - 其他
     - 关于NaN
     - parseInt
