@@ -13,6 +13,7 @@
     - 变量提升
     - 作用域链
   - Object
+    - Object&new Object()
     - 原型以及原型链
     - 继承
     - 拷贝
