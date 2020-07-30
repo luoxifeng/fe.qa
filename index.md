@@ -13,11 +13,11 @@
     - var & let & const
     - 作用域链
   - Object
-    - Object&new Object()
+    - Object & new Object()
     - 原型以及原型链
     - 继承
     - 拷贝
-    - forin和对象的遍历
+    - forin & Object.keys & Object.getOwnPropertyNames
     - 对象的迭代器
     - [Object.create](./docs/javascript/Object.create.html)
     - [Object.assign](./docs/javascript/Object.assign.html)
