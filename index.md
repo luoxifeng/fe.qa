@@ -14,18 +14,19 @@
     - 作用域链
   - Object
     - Object & new Object()
-    - 原型以及原型链
-    - 继承
-    - 拷贝
-    - forin & Object.keys & Object.getOwnPropertyNames
-    - 对象的迭代器
     - [Object.create](./docs/javascript/Object.create.html)
     - [Object.assign](./docs/javascript/Object.assign.html)
-    - [Object.prototype.toString](./docs/javascript/Object.prototype.toString.html)
-    - Object.prototype.stringTag
     - Object.is
     - Object.defineProperty
     - Object.seal
+    - [Object.prototype.toString](./docs/javascript/Object.prototype.toString.html)
+    - Object.prototype.stringTag
+    - 对象的迭代器
+    - forin & Object.keys & Object.getOwnPropertyNames
+    - 原型以及原型链
+    - 继承
+    - 拷贝
+    
   - Array
     - Array& new Array
     - [数组api](./docs/javascript/数组api.html)
@@ -65,7 +66,7 @@
   - 模块化
     - Commonjs
     - AMD&CMD
-    ES Module
+    - ES Module
   - 其他
     - 关于NaN
     - parseInt
