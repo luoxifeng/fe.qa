@@ -40,6 +40,7 @@
     - includes
   - Function
     - [如何理解函数是一等公民](./docs/javascript/Function/如何理解函数是一等公民.html)
+    - new Function()
     - 纯函数
     - 高阶函数
     - 闭包
