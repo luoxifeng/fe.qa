@@ -6,12 +6,13 @@
 
 - JavaScript
   - 基本概念
-    - [数据类型(包含es6新增](./docs/javascript/数据类型.html)
+    - [数据类型](./docs/javascript/数据类型.html)
     - [对象和数组的区别](./docs/javascript/对象和数组的区别.html)
     - 严格模式
     - 变量提升
     - var & let & const
     - 作用域链
+    - undefined
   - Object
     - Object() & new Object()
     - [Object.create](./docs/javascript/Object.create.html)
