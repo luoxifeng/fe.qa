@@ -13,7 +13,7 @@
     - var & let & const
     - 作用域链
   - Object
-    - Object & new Object()
+    - Object() & new Object()
     - [Object.create](./docs/javascript/Object.create.html)
     - [Object.assign](./docs/javascript/Object.assign.html)
     - Object.is
@@ -28,7 +28,7 @@
     - 拷贝
     
   - Array
-    - Array& new Array
+    - Array() & new Array()
     - [数组api](./docs/javascript/数组api.html)
     - [es6新增api](./docs/javascript/es6新增api.html)
     - [数组的转换](./docs/javascript/数组的转换.html)
@@ -39,8 +39,8 @@
     - 数组遍历和forin
     - includes
   - Function
-    - [如何理解函数是一等公民](./docs/javascript/Function/如何理解函数是一等公民.html)
     - 函数定义&函数声明
+    - [一等公民](./docs/javascript/Function/一等公民.html)
     - [new Function()](./docs/javascript/Function/newFunction().html)
     - 纯函数
     - 高阶函数
@@ -75,7 +75,7 @@
     - undefined
   
 - HTML
-  - [如何理解语义化](./docs/html/如何理解语义化.html)
+  - [语义化](./docs/html/语义化.html)
   - [localStorage和sessionStorage](./docs/html/localStorage和sessionStorage.html)
   - Web Component
   - Shadow Dom
