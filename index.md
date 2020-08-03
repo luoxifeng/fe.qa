@@ -52,11 +52,14 @@
     - 函数管道pipe
     - call和apply
     - Function.prototype.bind
-    - Function.prototype和Function.__proto__
+    - Function.prototype&Function.__proto__
     - this
     - 箭头函数
+  - Dom
+    - 创建dom
   - Event
-    - 事件捕获和事件冒泡
+    - addEventListener&removeEventListener
+    - 事件捕获&事件冒泡
     - e.target和e.currentTarget
     - 事件冒泡&e.stopPropagation()
     - e.preventDefault()
