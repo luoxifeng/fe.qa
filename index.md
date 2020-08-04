@@ -45,8 +45,8 @@
     - [new Function()](./docs/javascript/Function/newFunction().html)
     - this
     - arrow function
-    - 纯函数
-    - 高阶函数
+    - pure function
+    - high order function
     - 闭包
     - call&apply
     - argments
