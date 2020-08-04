@@ -46,7 +46,7 @@
     - 纯函数
     - 高阶函数
     - 闭包
-    - 函数科里化
+    - curry
     - argments
     - 函数组合compose
     - 函数管道pipe
