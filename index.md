@@ -47,14 +47,14 @@
     - arrow function
     - pure function
     - high order function
-    - 闭包
+    - closure
     - call&apply
     - argments
     - curry
     - compose
     - pipe
-    - Function.prototype.bind
-    - Function.prototype&Function.__proto__
+    - bind
+    - Function.prototype & Function.__proto__
     
   
   - Event
