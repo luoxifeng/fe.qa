@@ -55,8 +55,7 @@
     - Function.prototype&Function.__proto__
     - this
     - 箭头函数
-  - Dom
-    - 创建dom
+  
   - Event
     - addEventListener&removeEventListener
     - 事件捕获&事件冒泡
@@ -79,17 +78,21 @@
     - undefined
   
 - HTML
-  - [语义化](./docs/html/语义化.html)
-  - [localStorage和sessionStorage](./docs/html/localStorage和sessionStorage.html)
+  - 标签
+    - [语义化](./docs/html/语义化.html)
   - Web Component
+  - Dom
+    - 标准Dom和HTML Dom
+    - 创建dom
+    - Dom事件
+    - Dom的继承关系
+    - dataset
   - Shadow Dom
-  - 标准Dom和HTML Dom
-  - Dom事件
-  - Dom的继承关系
   - 如何禁用Css
   - 前端路由
   - async和defer
-  - dataset
+  - 本地存储
+    - [localStorage和sessionStorage](./docs/html/localStorage和sessionStorage.html)
   
 - Css
   - 选择器的权重
