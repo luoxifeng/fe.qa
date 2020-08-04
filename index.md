@@ -43,18 +43,19 @@
     - 函数定义&函数声明
     - [一等公民](./docs/javascript/Function/一等公民.html)
     - [new Function()](./docs/javascript/Function/newFunction().html)
+    - this
+    - arrow function
     - 纯函数
     - 高阶函数
     - 闭包
-    - curry
+    - call&apply
     - argments
-    - 函数组合compose
-    - 函数管道pipe
-    - call和apply
+    - curry
+    - compose
+    - pipe
     - Function.prototype.bind
     - Function.prototype&Function.__proto__
-    - this
-    - 箭头函数
+    
   
   - Event
     - addEventListener&removeEventListener
