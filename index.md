@@ -13,6 +13,8 @@
     - var & let & const
     - 作用域链
     - undefined
+    - NaN
+    - parseInt & parseFloat
   - Object
     - Object() & new Object()
     - [Object.create](./docs/javascript/Object.create.html)
@@ -48,15 +50,13 @@
     - pure function
     - high order function
     - closure
-    - call&apply
+    - call & apply
     - argments
     - curry
     - compose
     - pipe
     - bind
     - Function.prototype & Function.__proto__
-    
-  
   
   - 正则
     - exec
@@ -66,10 +66,7 @@
     - Commonjs
     - AMD&CMD
     - ES Module
-  - 其他
-    - 关于NaN
-    - parseInt
-    - undefined
+    
   
 - HTML
   - 标签
