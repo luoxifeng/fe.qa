@@ -32,6 +32,7 @@
     
   - Array
     - Array() & new Array()
+    - Array.isArray
     - [数组api](./docs/javascript/数组api.html)
     - [es6新增api](./docs/javascript/es6新增api.html)
     - [数组的转换](./docs/javascript/数组的转换.html)
