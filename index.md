@@ -39,7 +39,7 @@
     - Array.from
     - [类数组](./docs/javascript/类数组.html)
     - map,filter,reduce
-    - 数组遍历和forin
+    - forof & forin
     - includes
   - Function
     - 函数定义&函数声明
