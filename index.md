@@ -33,11 +33,12 @@
   - Array
     - Array() & new Array()
     - Array.isArray
+    - Array.from
+    - includes
     - [数组api](./docs/javascript/数组api.html)
     - [es6新增api](./docs/javascript/es6新增api.html)
     - [数组的转换](./docs/javascript/数组的转换.html)
     - polyfill
-    - Array.from
     - [类数组](./docs/javascript/类数组.html)
     - map,filter,reduce
     - forof & forin
