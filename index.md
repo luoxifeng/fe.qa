@@ -48,27 +48,22 @@
     - [一等公民](./docs/javascript/Function/一等公民.html)
     - [new Function()](./docs/javascript/Function/newFunction().html)
     - this
-    - arrow function
-    - pure function
-    - high order function
+    - 箭头函数
+    - 纯函数 & 高阶函数 & 
     - closure
-    - call & apply
+    - call & apply & bind
     - argments
     - curry
-    - compose
-    - pipe
-    - bind
+    - compose & pipe
     - Function.prototype & Function.__proto__
-  
   - 正则
     - exec
     - String.prototype.match
   - Promise
   - 模块化
     - Commonjs
-    - AMD&CMD
+    - AMD & CMD & UMD
     - ES Module
-    
   
 - HTML
   - 标签
