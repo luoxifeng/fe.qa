@@ -15,6 +15,7 @@
     - undefined
     - NaN
     - parseInt & parseFloat
+    - 隐式转换
   - Object
     - Object() & new Object()
     - [Object.create](./docs/javascript/Object.create.html)
