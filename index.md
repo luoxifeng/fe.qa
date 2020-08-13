@@ -45,7 +45,7 @@
     - forof & forin
     - includes
   - Function
-    - 函数定义&函数声明
+    - 基本概念（声明，定义，name,length）
     - [一等公民](./docs/javascript/Function/一等公民.html)
     - [new Function()](./docs/javascript/Function/newFunction().html)
     - this
