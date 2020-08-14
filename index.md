@@ -77,13 +77,14 @@
     - Dom的继承关系
     - dataset
   - Event
-    - addEventListener&removeEventListener
+    - 绑定事件
     - 事件捕获&事件冒泡
     - e.target和e.currentTarget
     - 事件冒泡&e.stopPropagation()
     - e.preventDefault()
     - 事件绑定和事件代理
     - 事件对象的兼容性
+    - 常用事件
   - Shadow Dom
   - 如何禁用Css
   - 前端路由
