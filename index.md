@@ -33,7 +33,7 @@
     
   - Array
     - Array() & new Array()
-    - Array.isArray
+    - 断言数组 & Array.isArray
     - Array.from
     - includes
     - [数组api](./docs/javascript/数组api.html)
