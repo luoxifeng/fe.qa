@@ -46,15 +46,12 @@
     - includes
   - Function
     - 基本概念（声明，定义，name,length）
-    - [一等公民](./docs/javascript/Function/一等公民.html)
     - [new Function()](./docs/javascript/Function/newFunction().html)
     - this
     - 箭头函数
-    - 纯函数 & 高阶函数 & 
-    - closure
+    - 闭包 & 纯函数 & 高阶函数 & 柯里化
     - call & apply & bind
     - argments
-    - curry
     - compose & pipe
     - Function.prototype & Function.__proto__
   - 正则
