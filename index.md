@@ -25,8 +25,7 @@
     - Object.preventExtensions & Object.freeze & Object.seal
     - [Object.prototype.toString](./docs/javascript/Object.prototype.toString.html)
     - Object.prototype.stringTag
-    - 对象的迭代器
-    - forin & Object.keys & Object.getOwnPropertyNames
+    - 对象迭代 & forin & Object.keys & Object.getOwnPropertyNames
     - 原型以及原型链
     - 继承
     - 拷贝
