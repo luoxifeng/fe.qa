@@ -2,9 +2,9 @@
 
 前端必会必知的一些问题整理
 
-## 分类
 
-- JavaScript
+
+## JavaScript
   - 基本概念
     - [数据类型](./docs/javascript/数据类型.html)
     - [对象和数组的区别](./docs/javascript/对象和数组的区别.html)
@@ -61,7 +61,7 @@
     - Commonjs
     - AMD & CMD & UMD
     - ES Module
-  
+—  
 - HTML
   - 标签
     - [语义化](./docs/html/语义化.html)
