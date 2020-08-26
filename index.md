@@ -18,6 +18,7 @@
     - 隐式转换
   - Object
     - Object() & new Object()
+    - instanceof
     - [Object.create](./docs/javascript/Object.create.html)
     - [Object.assign](./docs/javascript/Object.assign.html)
     - Object.is
