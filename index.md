@@ -5,7 +5,7 @@
 
 
 ## JavaScript 
-  -### 基本概念 
+  - 基本概念 
     - [数据类型](./docs/javascript/数据类型.html)
     - [对象和数组的区别](./docs/javascript/对象和数组的区别.html)
     - 严格模式
@@ -129,6 +129,7 @@
   - 异步加载如何实现的
 ## babel
   - perset & plugins
+  - jsx
 
 ## Vue
   - 响应式实现原理
