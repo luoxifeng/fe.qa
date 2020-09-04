@@ -58,6 +58,7 @@
     - exec
     - String.prototype.match
   - Promise
+  - Proxy
   - 模块化
     - Commonjs
     - AMD & CMD & UMD
