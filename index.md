@@ -121,9 +121,9 @@
   - hash
   - externals
   - loader (分类，执行顺序，开发，进阶)
-  - plugin
-  - hooks时间机制
-  - 优化
+  - plugins
+  - hooks
+  - split chunks
   - dev server
   - 如何解决模块依赖
   - 异步加载如何实现的
