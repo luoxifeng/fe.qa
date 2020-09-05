@@ -109,7 +109,6 @@
 ## 浏览器相关
   - 渲染过程
   - 回流和重绘
-  - v-model
   
 ## Typescript
   - ts有什么好处
@@ -131,11 +130,13 @@
 ## babel
   - perset & plugins
   - jsx
+  - 
 
 ## Vue
   - 响应式实现原理
   - 计算属性的实现
   - v-model
+  - next tick
 ## React
   - 函数组件和类组件
   - 高阶组件HOC
