@@ -124,6 +124,7 @@
   - externals
   - loader (分类，执行顺序，开发，进阶)
     - vue-loader
+    - cache-loader
   - plugins
   - hooks
   - split chunks
