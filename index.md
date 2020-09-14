@@ -126,6 +126,7 @@
     - vue-loader
     - cache-loader
     - style-loader
+    - css-loader
   - plugins
   - hooks
   - split chunks
