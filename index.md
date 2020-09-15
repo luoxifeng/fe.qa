@@ -127,6 +127,7 @@
     - cache-loader
     - style-loader
     - css-loader
+    - babel-loader
   - plugins
   - hooks
   - split chunks
