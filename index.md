@@ -128,9 +128,9 @@
     - style-loader
     - css-loader
     - babel-loader
+  - complier&complation
   - plugins
   - hooks
-    - complier
   - split chunks
   - dev server
   - 如何解决模块依赖
