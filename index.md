@@ -80,7 +80,6 @@
     - 绑定事件
     - 事件捕获&事件冒泡
     - e.target和e.currentTarget
-    - 事件冒泡&e.stopPropagation()
     - e.preventDefault()
     - 事件绑定和事件代理
     - 事件对象的兼容性
@@ -106,6 +105,7 @@
   - 1px问题
   - position定位
   - 负maigin
+  - js操作css
 ## 性能优化
   - 网络传输
 ## 浏览器相关
