@@ -52,7 +52,7 @@
     - 箭头函数
     - 闭包 & 纯函数 & 高阶函数 & 柯里化
     - call & apply & bind
-    - argments
+    - arguments
     - compose & pipe
     - Function.prototype & Function.__proto__
   - 正则
@@ -64,7 +64,7 @@
     - Commonjs
     - AMD & CMD & UMD
     - ES Module
- 
+    - require实现
 ## HTML
   - 标签
     - [语义化](./docs/html/语义化.html)
