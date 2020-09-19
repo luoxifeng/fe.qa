@@ -150,6 +150,7 @@
   - 高阶组件HOC
   - 合成事件
   - JSX
+  - connect
 ## Redux
   - 实现原理
   - 中间件
