@@ -65,6 +65,7 @@
     - AMD & CMD & UMD
     - ES Module
     - require实现
+    - seajs
 ## HTML
   - 标签
     - [语义化](./docs/html/语义化.html)
