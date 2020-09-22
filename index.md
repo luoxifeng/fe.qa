@@ -129,7 +129,8 @@
     - style-loader
     - css-loader
     - babel-loader
-  - complier&complation
+  - complier
+  - complation
   - plugins
   - hooks
   - split chunks
