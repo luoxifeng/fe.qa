@@ -17,6 +17,7 @@
     - NaN
     - parseInt & parseFloat
     - 隐式转换
+    - 暂时性死区
   - Object
     - Object() & new Object()
     - instanceof
