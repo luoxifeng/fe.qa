@@ -54,6 +54,7 @@
     - 闭包 & 纯函数 & 高阶函数 & 柯里化
     - call & apply & bind
     - arguments
+    - calle&caller
     - compose & pipe
     - Function.prototype & Function.__proto__
   - 正则
