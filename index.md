@@ -57,6 +57,7 @@
     - calle&caller
     - compose & pipe
     - Function.prototype & Function.__proto__
+    - 递归
   - 正则
     - exec
     - String.prototype.match
