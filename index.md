@@ -18,6 +18,7 @@
     - parseInt & parseFloat
     - 隐式转换
     - 暂时性死区
+    - eval
   - Object
     - Object() & new Object()
     - instanceof
