@@ -149,6 +149,7 @@
 
 ## Vue
   - 响应式实现原理
+  - Wacther
   - 计算属性的实现
   - v-model
   - next tick
