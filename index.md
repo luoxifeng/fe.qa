@@ -19,6 +19,7 @@
     - 隐式转换
     - 暂时性死区
     - eval
+    - 
   - Object
     - Object() & new Object()
     - instanceof
@@ -150,6 +151,7 @@
 ## Vue
   - 响应式实现原理
   - Wacther
+  - Dep
   - 计算属性的实现
   - v-model
   - next tick
