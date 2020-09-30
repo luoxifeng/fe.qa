@@ -153,8 +153,9 @@
   - Wacther
   - Dep
   - 计算属性的实现
+  - 数组的响应式实现
   - v-model
-  - next tick
+  - nexttick
 ## React
   - 函数组件和类组件
   - 高阶组件HOC
