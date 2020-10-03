@@ -32,6 +32,7 @@
     - Object.prototype.stringTag
     - 对象迭代 & forin & Object.keys & Object.getOwnPropertyNames
     - 原型以及原型链
+    - instanceof
     - 继承
     - 拷贝
     
