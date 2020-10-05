@@ -14,6 +14,7 @@
     - var & let & const
     - 作用域链
     - undefined & null
+    - symbol
     - NaN
     - parseInt & parseFloat
     - 隐式转换
