@@ -23,6 +23,7 @@
     - new
   - Object
     - Object() & new Object()
+    - new
     - instanceof
     - [Object.create](./docs/javascript/Object.create.html)
     - [Object.assign](./docs/javascript/Object.assign.html)
