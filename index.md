@@ -19,9 +19,8 @@
     - 隐式转换
     - 暂时性死区
     - eval
-    - new
   - Object
-    - Object() & new Object()
+    - Object() & new Object() & 字面量
     - new
     - instanceof
     - [Object.create](./docs/javascript/Object.create.html)
