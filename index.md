@@ -160,7 +160,7 @@
   - v-model
   - nexttick
   - ref
-  - reject
+  - provide & reject
 ## React
   - 函数组件和类组件
   - 高阶组件HOC
