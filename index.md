@@ -159,8 +159,9 @@
   - 数组的响应式实现
   - v-model
   - nexttick
-  - ref
   - provide & reject
+## Vue3
+  - ref
 ## React
   - 函数组件和类组件
   - 高阶组件HOC
