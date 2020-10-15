@@ -161,6 +161,7 @@
   - v-model
   - nexttick
   - provide & reject
+  - slot
 ## Vue3
   - ref
 ## React
