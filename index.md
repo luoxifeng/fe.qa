@@ -19,6 +19,7 @@
     - 隐式转换
     - 暂时性死区
     - eval
+    - with
   - Object
     - Object() & new Object() & 字面量
     - new
