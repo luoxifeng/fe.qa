@@ -62,6 +62,7 @@
     - Function.prototype & Function.__proto__
     - 递归
   - 正则
+    - RegExp
     - exec
     - String.prototype.match
   - Promise
