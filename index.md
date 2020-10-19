@@ -164,6 +164,7 @@
   - nexttick
   - provide & reject
   - slot & scopedSlot
+  - keep-alive
 ## Vue3
   - ref
 ## React
