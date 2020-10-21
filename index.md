@@ -98,7 +98,7 @@
   - 如何禁用Css
   - 前端路由
   - async和defer
-  - prefetch
+  - prefetch & preload
   - 本地存储
     - [localStorage和sessionStorage](./docs/html/localStorage和sessionStorage.html)
   
