@@ -160,7 +160,7 @@
   - 响应式实现原理
   - Wacther
   - Dep
-  - 计算属性的实现
+  - computed
   - 数组的响应式实现
   - v-model
   - nexttick
