@@ -168,6 +168,7 @@
   - provide & reject
   - slot & scopedSlot
   - keep-alive
+  - Vnode
 ## Vue3
   - ref
 ## React
