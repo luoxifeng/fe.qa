@@ -170,6 +170,7 @@
   - slot & scopedSlot
   - keep-alive
   - Vnode
+  - diff
 ## Vue3
   - ref
   - suspense
