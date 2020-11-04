@@ -128,8 +128,9 @@
   
 ## Typescript
   - ts有什么好处
-  - type 和 interface 区别
+  - type & interface
   - enum
+  - 定义文件
 
 ## Webpack
   - 配置类型
