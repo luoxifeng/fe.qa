@@ -173,6 +173,7 @@
   - keep-alive
   - Vnode
   - diff
+  - $set
 ## Vue3
   - ref
   - suspense
