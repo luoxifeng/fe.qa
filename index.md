@@ -62,6 +62,7 @@
     - compose & pipe
     - Function.prototype & Function.__proto__
     - 递归
+    - thunk
   - 正则
     - RegExp
     - exec
