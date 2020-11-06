@@ -189,6 +189,8 @@
   - 中间件
   - 异步
   - redux-thunk
+  - redux-promise
+
 ## 网络相关
   - URL
   - 缓存
